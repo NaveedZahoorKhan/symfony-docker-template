@@ -11,3 +11,9 @@ docker starter template for symfony, doesn't include database or phpmyadmin
      ▄████████▀   ▀█████▀   ▀█   ███   █▀    ███         ▀██████▀   ▀█   █▀   ▀█████▀  
                                                                                    
 
+
+
+## setup notes
+
+- copy your project in project directory
+- run ``sudo docker-compose up -d --build``
